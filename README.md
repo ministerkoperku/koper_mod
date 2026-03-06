@@ -1,37 +1,54 @@
-# This Mod is BAD
+### ai was used to make SOME of the code of this mod 
+
+mostly to fix my errors optimization and adding **//info** to the code 
+
+
+---
+
 
 This is my **first public mod**, made in MCreator – and yes, it's chaotic.
 
-## 🔥 Adds:
-- Several **overpowered bosses**
-- Totally broken **armor sets**
-- New items, blocks, effects
-- A new dimension called **"Wymiar Haosu"** (Chaos Dimension)
+### Adds:
+1. - Several **overpowered bosses**
+2. - Totally broken **armor sets**
+3. - New items, blocks, effects
+4. - And a **new dimension** called "**Wymiar Haosu**" (Chaos Dimension)\
+5. - staffs and **magic** and spells
 
-## 👹 Bosses:
-- Springi Koper
-- Koper Dino
-- Eternal Koper King
-- Leviatan Haosu
-- Xaltorgath’s Core
+### 🧟 Bosses:
+1. - Springi Koper 
+2. - Koper Dino 
+3. - Eternal Koper King  
+4. - Leviatan Haosu 
+5. - Xaltorgath’s Core  
+6. - koper trex  
+7. - kapoka
+7. - redmushroom
 
-⚠️ **Balanced?** Not really. But it's fun as hell.
+
+⚠️ unBalanced a little i am working on balance
 
 ---
 
 ## 💬 Info from the Developer
-I'm from Poland 🇵🇱 and I will **translate all non-translated mod content into English** soon – stay tuned!  
-For now, some names or texts may still be in Polish.
+I AM BACK WITH NEW IDEAS 
+planed for the future
+-remodeling and reanimating most of the bosses
+-upgrading everything 
+-new textures 
+and more 
+
 
 ---
 
 ## 📺 Author & Links
-Created by: **ministerkoperku**, using **MCreator**  
-YouTube: [Minister Koperku](https://www.youtube.com/@Ministerkopierd_olu)  
-Website: [MCreator.net](https://mcreator.net)
+
+Created by: **ministerkoperku**, using **MCreator**
+
+YouTube: [Minister Koperku](https://www.youtube.com/@Ministerkopierd_olu)    sometime there will be wideo about kopermod xD sometime 
+
+Main Website: [koper mod website](https://ministerkoperku.github.io/koper_mod-website/)
+
+Mod maker Website: [MCreator.net](https://mcreator.net)
 
 ---
-
-## 🛠 License
-This mod is licensed under the **MIT License**.  
-You are free to use, modify, and share this mod – but please **credit the original author: ministerkoperku**
